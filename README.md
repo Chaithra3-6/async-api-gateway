@@ -5,8 +5,8 @@
 ![Redis](https://img.shields.io/badge/Redis-cache-DC382D?logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-audit%20log-47A248?logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-compose-2496ED?logo=docker&logoColor=white)
-<!-- After you push, swap <user>/<repo> below for your GitHub path so the CI badge goes live -->
-![CI](https://github.com/<user>/<repo>/actions/workflows/ci.yml/badge.svg)
+
+![CI](https://github.com/Chaithra3-6/async-api-gateway/actions/workflows/ci.yml/badge.svg)
 
 A REST gateway that fans out to three upstream services **concurrently**, merges
 their responses, and adds the operational plumbing a real service needs: caching,
