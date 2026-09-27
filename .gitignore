@@ -6,3 +6,11 @@ venv/
 .pytest_cache/
 .coverage
 _verify_core.py
+
+bandit.json
+pip-audit.json
+gitleaks.json
+trivy.json
+dast-report.json
+security-report.json
+security-report.html
